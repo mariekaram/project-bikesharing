@@ -28,10 +28,10 @@ pip install torchvision
 conda install -c pytorch pytorch
 ```
 ## Running the project:
-The whole project is located in the jupyter notebook file Predicting_bike_sharing_data.ipynb and it's include the training an the prediction part. The neural network is implemented in the file my_answer.py and used from the jupyter notebook.
+The whole project is located in the jupyter notebook file `Predicting_bike_sharing_data.ipynb` and it's include the training an the prediction part. The neural network is implemented in the file `my_answer.py` and used from the jupyter notebook.
 
 ## Parameters of training:
-To change to interations, the amount of hidden notes and some other parameters for the neural network, you can adapt these global constants inside the python file my_answer.py and watch the results.
+To change to interations, the amount of hidden notes and some other parameters for the neural network, you can adapt these global constants inside the python file `my_answer.py` and watch the results.
 ```
 # Set your hyperparameters here
 iterations = 11000
